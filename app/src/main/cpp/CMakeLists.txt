@@ -414,7 +414,6 @@ add_library(pdfium STATIC
     fpdfsdk/src/fpdf_searchex.cpp
     fpdfsdk/src/fpdf_sysfontinfo.cpp
     fpdfsdk/src/fpdf_transformpage.cpp
-    fpdfsdk/src/fsdk_actionhandler.cpp
     fpdfsdk/src/fsdk_rendercontext.cpp
     third_party/bigint/BigInteger.cc
     third_party/bigint/BigIntegerUtils.cc
