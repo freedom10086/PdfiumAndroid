@@ -1,4 +1,5 @@
 # PdfiumAndroid
+渲染pdf成bitmap
 buid pdfium for android use cmake
 
 Uses pdfium library [from AOSP](https://android.googlesource.com/platform/external/pdfium/)
